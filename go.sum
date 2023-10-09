@@ -1,3 +1,5 @@
+github.com/amzapi/selling-partner-api-sdk v0.0.0-20230816154629-14b259a40fcd h1:IR9a3+2NmW3xMxPGYnOwI31c8bKCZn57Qq+Ucy8i258=
+github.com/amzapi/selling-partner-api-sdk v0.0.0-20230816154629-14b259a40fcd/go.mod h1:i1PVvHOZU+bZg/fNNfHzpc0uzuYNnJxyOeflwnuLNUE=
 github.com/aws/aws-sdk-go v1.36.23 h1:umM44ptMKImsUWLtjGBv/4Ut7Nd99DfqoZDkO0j0/Kc=
 github.com/aws/aws-sdk-go v1.36.23/go.mod h1:hcU610XS61/+aQV88ixoOzUoG7v3b31pl2zKMmprdro=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=

@@ -1,8 +1,9 @@
-module github.com/amzapi/selling-partner-api-sdk
+module github.com/wish-master/selling-partner-api-sdk
 
 go 1.16
 
 require (
+	github.com/amzapi/selling-partner-api-sdk v0.0.0-20230816154629-14b259a40fcd // indirect
 	github.com/aws/aws-sdk-go v1.36.23
 	github.com/google/uuid v1.1.4
 	github.com/kr/pretty v0.1.0 // indirect
