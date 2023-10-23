@@ -279,6 +279,8 @@ type Order struct {
 	ShipmentServiceLevelCategory *string `json:"ShipmentServiceLevelCategory,omitempty"`
 
 	ShippingAddress *Address `json:"ShippingAddress,omitempty"`
+
+	BuyerInfo *OrderBuyerInfo `json:"BuyerInfo,omitempty"`
 }
 
 // OrderAddress defines model for OrderAddress.
